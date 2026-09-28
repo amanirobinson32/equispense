@@ -10,6 +10,8 @@ Built by **Robinson Software Works**
 
 **Commercial source code • Local-first • No server required to get started**
 
+<img src="01-equispense-cover.png" alt="Equispense Equipment Rental Management System" width="100%">
+
 </div>
 
 ---
@@ -67,9 +69,23 @@ Equispense V1 stores data locally. Data is stored independently on each browser 
 
 This approach allows buyers to begin using and customizing the system without first deploying backend infrastructure.
 
-## Screenshots
+## Product Showcase
 
-Product screenshots and additional showcase material will be added here.
+### Web Dashboard
+
+<img src="02-dashboard.png" alt="Equispense web dashboard" width="100%">
+
+### Equipment Management
+
+<img src="03-equipment.png" alt="Equispense equipment management" width="100%">
+
+### Mobile App
+
+<img src="09-mobile-app.png" alt="Equispense React Native mobile application" width="100%">
+
+### What's Included
+
+<img src="10-whats-included.png" alt="What's included with Equispense" width="100%">
 
 ## Commercial Source Code
 
