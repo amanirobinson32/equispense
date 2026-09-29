@@ -97,9 +97,12 @@ This public repository is a product showcase and portfolio repository. The compl
 
 ### Purchase
 
-**Coming soon.**
+**Equispense V1.0.0 — $59.99 USD**
 
-Purchase links will be added when the official product listings are live.
+[Buy Equispense — Complete Web + Mobile Source Code](https://robinsonsoftwareworks.lemonsqueezy.com/checkout/buy/6355e21d-1506-4c74-84ed-3c018b0e0e2e)
+
+Secure checkout and digital delivery are provided through Lemon Squeezy.
+
 
 ## License
 
